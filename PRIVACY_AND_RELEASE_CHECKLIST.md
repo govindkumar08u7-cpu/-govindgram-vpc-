@@ -1,0 +1,11 @@
+# रिलीज़ से पहले जरूरी चेकलिस्ट
+- [ ] स्पष्ट Privacy Policy, Terms और contact/support विवरण
+- [ ] फोन/SMS permissions केवल मुख्य उपयोग के लिए और स्पष्ट कारण सहित
+- [ ] Android default dialer/SMS roles का आधिकारिक flow
+- [ ] कॉल रिकॉर्डिंग को डिफ़ॉल्ट रूप से बंद रखें; लागू कानून और सभी जरूरी सहमतियों के बिना उपलब्ध न कराएँ
+- [ ] OTP/SMS content को सर्वर पर अपलोड न करें
+- [ ] नंबर डेटा के लिए वैध स्रोत, उपयोगकर्ता सूचना, सुधार/हटाने की प्रक्रिया
+- [ ] Rate limiting, abuse reporting, moderation, audit logs
+- [ ] Supabase RLS, backups, secrets management और monitoring
+- [ ] Play Store Data Safety और सभी लागू Google Play policies
+- [ ] वास्तविक डिवाइसों पर परीक्षण; उसके बाद signed APK/AAB
